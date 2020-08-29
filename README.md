@@ -14,16 +14,16 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Paul's Cloud Journey
 
-[✍️ Introduce yourself]
+I’m an old dog developer trying to learn new tricks. I come from the Microsoft world with over 25 years experience.
 
-[✍️ Tell us why you started this challenge]
+I started this challenge to learn more about cloud technologies, especially Azure. This challenge looks to be an interesting way to push myself to learn new things. 
 
-[✍️ Tell us where you want to be at the end of the challenge]
+At the challenge's end, I hope to be able to teach what I have learned to others. 
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [@pdelcogliano](https://twitter.com/pdelcogliano)
+- [LinkedIn](https://www.linkedin.com/in/paul-delcogliano-b264022/)
 
 ## Stepping out the door
 
