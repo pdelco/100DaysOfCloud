@@ -8,4 +8,4 @@
 
 ## Social Proof
 
-[Tweet]([link](https://twitter.com/pdelcogliano/status/1299511212414246912))
+[Tweet](https://twitter.com/pdelcogliano/status/1299511212414246912)
